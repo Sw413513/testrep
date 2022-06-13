@@ -32,3 +32,24 @@
 [1]:https://www.github.com "GITHUB官网"
 
 ![测试.jpg](https://s2.loli.net/2022/06/13/7Mv8pL2FnmR5Wyz.png)
+在文章中插入指定的代码段
+```bash
+sudo apt-get install git
+```
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+int main(void)
+{
+	printf("c 语言测试代码..\n");
+	return 0;
+}
+```
+```cpp
+
+```
+
+```python
+
+```
