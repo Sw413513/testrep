@@ -32,6 +32,8 @@
 [1]:https://www.github.com "GITHUB官网"
 
 ![测试.jpg](https://s2.loli.net/2022/06/13/7Mv8pL2FnmR5Wyz.png)
+<br>
+
 在文章中插入指定的代码段
 ```bash
 sudo apt-get install git
